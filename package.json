@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "mongoose": "^7.0.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "social-network-app",
+  "description": "## Your Task",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konnyph/social-network-app.git"
+  },
+  "keywords": [
+    "mongoose",
+    "express",
+    "moment"
+  ],
+  "author": "Konny P Ho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konnyph/social-network-app/issues"
+  },
+  "homepage": "https://github.com/konnyph/social-network-app#readme"
+}
