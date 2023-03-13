@@ -30,6 +30,8 @@ N/A
 ## Questions 
 conniebilac@gmail.com
 
+Walkthrough Video:
+
 Github:
 konnyph
 https://github.com/konnyph

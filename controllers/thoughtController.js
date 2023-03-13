@@ -25,7 +25,7 @@ module.exports = {
     Thought.create(body)
       .then(dbThoughtData => {
         User.findOneAndUpdate(
-          { _id: params.userId },
+          { username: body.username},
           { $push: { thoughts: dbThoughtData._id }},
           { new: true }
         )
