@@ -31,7 +31,8 @@ N/A
 conniebilac@gmail.com
 
 Walkthrough Video:
-
+https://drive.google.com/file/d/1_plbhZwtKztQ9Ui_udgUL8BAMunwIy2q/view
+https://drive.google.com/file/d/1ZxTOJYTTSFbKm0ZzQWcFhVAyvBWMF4B5/view
 Github:
 konnyph
 https://github.com/konnyph
